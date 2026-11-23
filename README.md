@@ -1,0 +1,1 @@
+An image classification project that uses Transfer Learning with MobileNetV2 and TensorFlow to detect corrosion in images. The model classifies surface images into two categories: Corrosion and No Corrosion. The project explores deep learning, computer vision, and pretrained CNN architectures to develop an efficient automated corrosion detection system.
